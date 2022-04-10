@@ -16,5 +16,12 @@
   "bugs": {
     "url": "https://github.com/danielle-gan/budget-tracker-pwa/issues"
   },
-  "homepage": "https://github.com/danielle-gan/budget-tracker-pwa#readme"
+  "homepage": "https://github.com/danielle-gan/budget-tracker-pwa#readme",
+  "dependencies": {
+    "compression": "^1.7.4",
+    "express": "^4.17.3",
+    "mongoose": "^6.2.10",
+    "morgan": "^1.10.0",
+    "node": "^17.7.2"
+  }
 }
