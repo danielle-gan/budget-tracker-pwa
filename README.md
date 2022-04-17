@@ -1,7 +1,7 @@
-# Budget Tracker Starter Code
+# Budget Tracker
 
 # Purpose
-Create a Progressive Web Application (PWA) that allows users to track their money in a fast and convenient way. 
+Create a Progressive Web Application (PWA) that allows users to track their money in a fast and convenient way with offline functionality. 
 
 # Acceptance Criteria
 GIVEN a budget tracker without an internet connection </br>
@@ -25,8 +25,5 @@ THEN the deposits or expenses added while they were offline are added to their t
 # Screenshot
 ![Screenshot](public/images/screenshot.PNG)
 
-
 # Link to Live Application
 https://powerful-springs-57936.herokuapp.com/ 
-
-This link doesn't actually work. It runs with npm start, I just can't deploy it for the LIFE of me :(
